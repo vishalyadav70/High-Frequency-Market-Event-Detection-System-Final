@@ -33,13 +33,13 @@ The project is organized into several files:
 
 ## Running the System
 
-    To start the tick generation and real-time visualization, run the main.py script:
+1. **To start the tick generation and real-time visualization, run the main.py script:**
 
     
      ```bash
     python main.py
 
-    This command will:
+2. **This command will**
 
     1. Start a separate thread to continuously generate and enqueue price ticks.
     2. Run a Dash application that provides real-time visualization of the price movements.
